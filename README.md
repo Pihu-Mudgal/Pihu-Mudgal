@@ -1,6 +1,6 @@
-## Hi, I'm Pihu, 
+# Hi, I'm Pihu, 
 
-# 💫 About Me:
+## 💫 About Me:
 ✨ I am a BCA student focused on product, data, and design <br>🚀 I am a builder of real-world, insight-driven digital solutions <br>🧠 I am a keen observer of user behavior and product thinking <br>🎯 I am a leader with experience in end-to-end execution & management <br>🔮 I am an aspiring Product Leader on a CTO path 
 
 
